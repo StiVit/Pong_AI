@@ -31,13 +31,13 @@ This repository contains an AI developed using the [NEAT-Python](https://neat-py
    python main.py
    ```
 
-2. Use the arrow keys or a designated control scheme to play against the AI.
+2. Use the w and s keys to play against the AI.
 
 3. Observe the AI's performance improve as it learns from each game.
 
 ## NEAT Configuration
 
-The `neat-config.txt` file contains adjustable parameters for the NEAT algorithm, including:
+The `config.txt` file contains adjustable parameters for the NEAT algorithm, including:
 - **Population size**
 - **Fitness function**
 - **Mutation rates**
